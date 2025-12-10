@@ -1,4 +1,4 @@
-**# Library Management System (Java)**
+** Library Management System (Java)**
 
 This project is a console-based library management system developed in Java for a university programming assignment. It models a small library environment and supports common library actions such as browsing the catalogue, borrowing and returning books, placing holds, and managing patrons.
 
