@@ -13,14 +13,14 @@ An administrative mode allows authorised users to add or remove patrons and book
 
 * Browse all books or only books currently available
 
-Search books by author or genre
+* Search books by author or genre
 
-Borrow and return books
+* Borrow and return books
 
-Place holds with queue-based processing
+* Place holds with queue-based processing
 
-View patron records and favourite books
+* View patron records and favourite books
 
-Admin tools for managing patrons and catalogue entries
+* Admin tools for managing patrons and catalogue entries
 
-This project was completed for university coursework and is intended for educational and portfolio use.
+* This project was completed for university coursework and is intended for educational and portfolio use.
